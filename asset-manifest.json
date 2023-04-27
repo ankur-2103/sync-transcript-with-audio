@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sync-transcript-with-audio/static/css/main.aebf80e5.css",
+    "main.js": "/sync-transcript-with-audio/static/js/main.3e558759.js",
+    "static/media/faudio.mp3": "/sync-transcript-with-audio/static/media/faudio.f5b75b6c4652e2489235.mp3",
+    "index.html": "/sync-transcript-with-audio/index.html",
+    "main.aebf80e5.css.map": "/sync-transcript-with-audio/static/css/main.aebf80e5.css.map",
+    "main.3e558759.js.map": "/sync-transcript-with-audio/static/js/main.3e558759.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aebf80e5.css",
+    "static/js/main.3e558759.js"
+  ]
+}
