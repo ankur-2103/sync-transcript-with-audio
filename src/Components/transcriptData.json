@@ -1,0 +1,5150 @@
+[
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 0,
+      "end": 0.15,
+      "confidence": 0,
+      "text": "There",
+      "offset": 0,
+      "length": 5,
+      "key": "tqe8ayj"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 0.15,
+      "end": 0.36,
+      "confidence": 0,
+      "text": "was",
+      "offset": 6,
+      "length": 2,
+      "key": "31qv6wr"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 0.36,
+      "end": 0.42000000000000004,
+      "confidence": 0,
+      "text": "a",
+      "offset": 9,
+      "length": 1,
+      "key": "2eczbm7"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 0.42000000000000004,
+      "end": 0.84,
+      "confidence": 0,
+      "text": "day",
+      "offset": 11,
+      "length": 4,
+      "key": "czx30fh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 0.84,
+      "end": 1.11,
+      "confidence": 0,
+      "text": "about",
+      "offset": 16,
+      "length": 5,
+      "key": "mpk0gznm"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 1.11,
+      "end": 1.36,
+      "confidence": 0,
+      "text": "ten",
+      "offset": 22,
+      "length": 3,
+      "key": "ix3tke"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 1.36,
+      "end": 1.59,
+      "confidence": 0,
+      "text": "years",
+      "offset": 26,
+      "length": 5,
+      "key": "ovata8f"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 1.59,
+      "end": 2.45,
+      "confidence": 0,
+      "text": "ago",
+      "offset": 32,
+      "length": 3,
+      "key": "ch97v0f"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 2.45,
+      "end": 2.66,
+      "confidence": 0,
+      "text": "when",
+      "offset": 36,
+      "length": 4,
+      "key": "m9k5hg"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 2.66,
+      "end": 2.84,
+      "confidence": 0,
+      "text": "I",
+      "offset": 41,
+      "length": 1,
+      "key": "qfebn4c"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 2.84,
+      "end": 3.17,
+      "confidence": 0,
+      "text": "asked",
+      "offset": 43,
+      "length": 5,
+      "key": "zdugshl"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 3.17,
+      "end": 3.26,
+      "confidence": 0,
+      "text": "a",
+      "offset": 49,
+      "length": 1,
+      "key": "ovpg476"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 3.26,
+      "end": 3.63,
+      "confidence": 0,
+      "text": "friend",
+      "offset": 51,
+      "length": 6,
+      "key": "39pbrtk"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 3.63,
+      "end": 3.72,
+      "confidence": 0,
+      "text": "to",
+      "offset": 58,
+      "length": 2,
+      "key": "av49eai"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 3.72,
+      "end": 4.21,
+      "confidence": 0,
+      "text": "hold",
+      "offset": 61,
+      "length": 4,
+      "key": "wzf2a3i"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 4.21,
+      "end": 4.31,
+      "confidence": 0,
+      "text": "a",
+      "offset": 66,
+      "length": 1,
+      "key": "qvdbfb"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 4.31,
+      "end": 4.61,
+      "confidence": 0,
+      "text": "baby",
+      "offset": 68,
+      "length": 4,
+      "key": "buc15v"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 4.61,
+      "end": 5.12,
+      "confidence": 0,
+      "text": "dinosaur",
+      "offset": 73,
+      "length": 8,
+      "key": "9amqnrp"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 5.12,
+      "end": 5.7,
+      "confidence": 0,
+      "text": "robot",
+      "offset": 82,
+      "length": 5,
+      "key": "l50qwmo"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 5.7,
+      "end": 6.15,
+      "confidence": 0,
+      "text": "upside",
+      "offset": 88,
+      "length": 6,
+      "key": "yvypnbr"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 6.15,
+      "end": 8.81,
+      "confidence": 0,
+      "text": "down.",
+      "offset": 95,
+      "length": 5,
+      "key": "fs791ok"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 8.81,
+      "end": 8.93,
+      "confidence": 0,
+      "text": "It",
+      "offset": 101,
+      "length": 2,
+      "key": "y5fs4bg"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 8.93,
+      "end": 9.08,
+      "confidence": 0,
+      "text": "was",
+      "offset": 104,
+      "length": 3,
+      "key": "b3m9vkg"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 9.08,
+      "end": 9.21,
+      "confidence": 0,
+      "text": "a",
+      "offset": 108,
+      "length": 1,
+      "key": "u9gb5zi"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 9.21,
+      "end": 9.7,
+      "confidence": 0,
+      "text": "toy",
+      "offset": 110,
+      "length": 3,
+      "key": "0bx309"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 9.7,
+      "end": 10.01,
+      "confidence": 0,
+      "text": "called",
+      "offset": 114,
+      "length": 6,
+      "key": "op1ra6n"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 10.01,
+      "end": 10.43,
+      "confidence": 0,
+      "text": "plea.",
+      "offset": 121,
+      "length": 5,
+      "key": "4z80ygh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 10.43,
+      "end": 11.18,
+      "confidence": 0,
+      "text": "All",
+      "offset": 127,
+      "length": 3,
+      "key": "hg1996n"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 11.18,
+      "end": 11.63,
+      "confidence": 0,
+      "text": "that",
+      "offset": 0,
+      "length": 4,
+      "key": "bu31un"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 11.63,
+      "end": 11.84,
+      "confidence": 0,
+      "text": "he'd",
+      "offset": 0,
+      "length": 4,
+      "key": "q1n6zr"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 11.84,
+      "end": 12.28,
+      "confidence": 0,
+      "text": "ordered",
+      "offset": 5,
+      "length": 7,
+      "key": "1zxjolb"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 12.28,
+      "end": 12.4,
+      "confidence": 0,
+      "text": "and",
+      "offset": 13,
+      "length": 3,
+      "key": "2k1w485"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 12.4,
+      "end": 12.47,
+      "confidence": 0,
+      "text": "I",
+      "offset": 17,
+      "length": 1,
+      "key": "tbe1olj"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 12.47,
+      "end": 12.64,
+      "confidence": 0,
+      "text": "was",
+      "offset": 19,
+      "length": 3,
+      "key": "bwvgryf"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 12.64,
+      "end": 12.86,
+      "confidence": 0,
+      "text": "really",
+      "offset": 23,
+      "length": 6,
+      "key": "vtz0pp"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 12.86,
+      "end": 13.47,
+      "confidence": 0,
+      "text": "excited",
+      "offset": 30,
+      "length": 7,
+      "key": "teh4h2j"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 13.47,
+      "end": 13.8,
+      "confidence": 0,
+      "text": "about",
+      "offset": 38,
+      "length": 5,
+      "key": "7jkbub"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 13.8,
+      "end": 14.02,
+      "confidence": 0,
+      "text": "it",
+      "offset": 44,
+      "length": 2,
+      "key": "ikqb6n"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 14.02,
+      "end": 15.33,
+      "confidence": 0,
+      "text": "because",
+      "offset": 47,
+      "length": 7,
+      "key": "xt5pzgn"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 15.33,
+      "end": 15.57,
+      "confidence": 0,
+      "text": "I've",
+      "offset": 55,
+      "length": 4,
+      "key": "olt6ivn"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 15.57,
+      "end": 15.77,
+      "confidence": 0,
+      "text": "always",
+      "offset": 60,
+      "length": 6,
+      "key": "yp03jm"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 15.77,
+      "end": 16.07,
+      "confidence": 0,
+      "text": "loved",
+      "offset": 67,
+      "length": 5,
+      "key": "fifatv4"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 16.07,
+      "end": 16.78,
+      "confidence": 0,
+      "text": "about",
+      "offset": 73,
+      "length": 5,
+      "key": "mntihv"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 16.78,
+      "end": 17.02,
+      "confidence": 0,
+      "text": "this",
+      "offset": 79,
+      "length": 4,
+      "key": "2xq2y08"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 17.02,
+      "end": 17.18,
+      "confidence": 0,
+      "text": "one",
+      "offset": 84,
+      "length": 3,
+      "key": "ooe0uls"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 17.18,
+      "end": 17.44,
+      "confidence": 0,
+      "text": "has",
+      "offset": 88,
+      "length": 3,
+      "key": "gsec01"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 17.44,
+      "end": 17.74,
+      "confidence": 0,
+      "text": "really",
+      "offset": 92,
+      "length": 6,
+      "key": "733ibh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 17.74,
+      "end": 17.94,
+      "confidence": 0,
+      "text": "caught",
+      "offset": 99,
+      "length": 6,
+      "key": "t7cnbiki"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 17.94,
+      "end": 18.32,
+      "confidence": 0,
+      "text": "technical",
+      "offset": 106,
+      "length": 9,
+      "key": "tyn56h"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 18.32,
+      "end": 18.78,
+      "confidence": 0,
+      "text": "features.",
+      "offset": 116,
+      "length": 9,
+      "key": "9cszh69"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 18.78,
+      "end": 18.91,
+      "confidence": 0,
+      "text": "It",
+      "offset": 126,
+      "length": 2,
+      "key": "24jomm"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 18.91,
+      "end": 19.1,
+      "confidence": 0,
+      "text": "had",
+      "offset": 129,
+      "length": 3,
+      "key": "409kxir"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 19.1,
+      "end": 19.43,
+      "confidence": 0,
+      "text": "more",
+      "offset": 133,
+      "length": 4,
+      "key": "yxk50v"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 19.43,
+      "end": 19.74,
+      "confidence": 0,
+      "text": "orders",
+      "offset": 138,
+      "length": 6,
+      "key": "4s29apo"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 19.74,
+      "end": 19.9,
+      "confidence": 0,
+      "text": "and",
+      "offset": 145,
+      "length": 3,
+      "key": "c671xhk"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 19.9,
+      "end": 20.16,
+      "confidence": 0,
+      "text": "touch",
+      "offset": 149,
+      "length": 5,
+      "key": "f2z9kw"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 20.16,
+      "end": 21.25,
+      "confidence": 0,
+      "text": "sensors.",
+      "offset": 155,
+      "length": 8,
+      "key": "v9dpprs"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 21.25,
+      "end": 21.49,
+      "confidence": 0,
+      "text": "It",
+      "offset": 164,
+      "length": 2,
+      "key": "z59tox"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 21.49,
+      "end": 21.68,
+      "confidence": 0,
+      "text": "had",
+      "offset": 167,
+      "length": 3,
+      "key": "n9bnu3l"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 21.68,
+      "end": 21.79,
+      "confidence": 0,
+      "text": "an",
+      "offset": 171,
+      "length": 2,
+      "key": "l6irq18"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 21.79,
+      "end": 21.95,
+      "confidence": 0,
+      "text": "infra",
+      "offset": 174,
+      "length": 5,
+      "key": "gbklsbf"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 21.95,
+      "end": 22.29,
+      "confidence": 0,
+      "text": "red",
+      "offset": 180,
+      "length": 3,
+      "key": "ewld4fg"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 22.29,
+      "end": 23.43,
+      "confidence": 0,
+      "text": "camera",
+      "offset": 184,
+      "length": 6,
+      "key": "d3me55"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 23.43,
+      "end": 23.62,
+      "confidence": 0,
+      "text": "and",
+      "offset": 191,
+      "length": 3,
+      "key": "pdndk3k"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 23.62,
+      "end": 23.77,
+      "confidence": 0,
+      "text": "one",
+      "offset": 195,
+      "length": 3,
+      "key": "71is2ob"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 23.77,
+      "end": 23.85,
+      "confidence": 0,
+      "text": "of",
+      "offset": 199,
+      "length": 2,
+      "key": "datkzqf"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 23.85,
+      "end": 23.96,
+      "confidence": 0,
+      "text": "the",
+      "offset": 202,
+      "length": 3,
+      "key": "71bhup9"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 23.96,
+      "end": 24.2,
+      "confidence": 0,
+      "text": "things",
+      "offset": 206,
+      "length": 6,
+      "key": "nmtv8i9"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 24.2,
+      "end": 24.31,
+      "confidence": 0,
+      "text": "that",
+      "offset": 213,
+      "length": 4,
+      "key": "eisnvj"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 24.31,
+      "end": 24.51,
+      "confidence": 0,
+      "text": "had",
+      "offset": 218,
+      "length": 3,
+      "key": "lro6af"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 24.51,
+      "end": 24.67,
+      "confidence": 0,
+      "text": "was",
+      "offset": 222,
+      "length": 3,
+      "key": "lc7u4mc"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 24.67,
+      "end": 24.93,
+      "confidence": 0,
+      "text": "a",
+      "offset": 226,
+      "length": 1,
+      "key": "kstu72"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 24.93,
+      "end": 25.37,
+      "confidence": 0,
+      "text": "tilt",
+      "offset": 228,
+      "length": 4,
+      "key": "ha41fqd"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 25.37,
+      "end": 26.22,
+      "confidence": 0,
+      "text": "sensor",
+      "offset": 233,
+      "length": 6,
+      "key": "rh2dqd"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 26.22,
+      "end": 26.49,
+      "confidence": 0,
+      "text": "so",
+      "offset": 240,
+      "length": 2,
+      "key": "f4pai1k"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 26.49,
+      "end": 26.6,
+      "confidence": 0,
+      "text": "it.",
+      "offset": 243,
+      "length": 3,
+      "key": "zuo5f3h"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 26.6,
+      "end": 26.8,
+      "confidence": 0,
+      "text": "Knew",
+      "offset": 247,
+      "length": 4,
+      "key": "pckisnj"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 26.8,
+      "end": 26.94,
+      "confidence": 0,
+      "text": "what",
+      "offset": 252,
+      "length": 4,
+      "key": "4u8umhg"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 26.94,
+      "end": 27.52,
+      "confidence": 0,
+      "text": "direction.",
+      "offset": 257,
+      "length": 10,
+      "key": "z9vcj19"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 27.52,
+      "end": 27.63,
+      "confidence": 0,
+      "text": "It",
+      "offset": 268,
+      "length": 2,
+      "key": "qqidzbq"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 27.63,
+      "end": 27.95,
+      "confidence": 0,
+      "text": "was",
+      "offset": 271,
+      "length": 3,
+      "key": "mkz8van"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 27.95,
+      "end": 28.66,
+      "confidence": 0,
+      "text": "facing.",
+      "offset": 275,
+      "length": 7,
+      "key": "ssw98a"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 28.66,
+      "end": 29.02,
+      "confidence": 0,
+      "text": "If",
+      "offset": 283,
+      "length": 2,
+      "key": "mbrxdai"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 29.02,
+      "end": 29.12,
+      "confidence": 0,
+      "text": "and",
+      "offset": 286,
+      "length": 3,
+      "key": "l1ul3b7"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 29.12,
+      "end": 29.25,
+      "confidence": 0,
+      "text": "when",
+      "offset": 290,
+      "length": 4,
+      "key": "znizpp"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 29.25,
+      "end": 29.4,
+      "confidence": 0,
+      "text": "you",
+      "offset": 295,
+      "length": 3,
+      "key": "sszk73"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 29.4,
+      "end": 29.61,
+      "confidence": 0,
+      "text": "held",
+      "offset": 299,
+      "length": 4,
+      "key": "njjc3i"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 29.61,
+      "end": 29.71,
+      "confidence": 0,
+      "text": "it",
+      "offset": 304,
+      "length": 2,
+      "key": "rrukvnx"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 29.71,
+      "end": 30.03,
+      "confidence": 0,
+      "text": "upside",
+      "offset": 307,
+      "length": 6,
+      "key": "6n4onz"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 30.03,
+      "end": 33.51,
+      "confidence": 0,
+      "text": "down.",
+      "offset": 314,
+      "length": 5,
+      "key": "ceif4og"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 33.51,
+      "end": 33.67,
+      "confidence": 0,
+      "text": "I",
+      "offset": 0,
+      "length": 1,
+      "key": "7fikfrm"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 33.67,
+      "end": 33.88,
+      "confidence": 0,
+      "text": "thought.",
+      "offset": 2,
+      "length": 8,
+      "key": "6z3l96v"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 33.88,
+      "end": 34.1,
+      "confidence": 0,
+      "text": "It's",
+      "offset": 0,
+      "length": 4,
+      "key": "6ielz99"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 34.1,
+      "end": 34.19,
+      "confidence": 0,
+      "text": "a",
+      "offset": 5,
+      "length": 1,
+      "key": "d3k089"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 34.19,
+      "end": 34.63,
+      "confidence": 0,
+      "text": "super",
+      "offset": 7,
+      "length": 5,
+      "key": "bqx6ivr"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 34.63,
+      "end": 35.09,
+      "confidence": 0,
+      "text": "courts",
+      "offset": 13,
+      "length": 6,
+      "key": "igigayw"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 35.09,
+      "end": 35.26,
+      "confidence": 0,
+      "text": "are",
+      "offset": 20,
+      "length": 3,
+      "key": "per2q1o"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 35.26,
+      "end": 35.64,
+      "confidence": 0,
+      "text": "showing",
+      "offset": 24,
+      "length": 7,
+      "key": "b08k8e7"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 35.64,
+      "end": 35.77,
+      "confidence": 0,
+      "text": "off",
+      "offset": 32,
+      "length": 3,
+      "key": "g4b3p0hi"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 35.77,
+      "end": 35.92,
+      "confidence": 0,
+      "text": "to",
+      "offset": 36,
+      "length": 2,
+      "key": "hiywinv"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 35.92,
+      "end": 36.02,
+      "confidence": 0,
+      "text": "my",
+      "offset": 39,
+      "length": 2,
+      "key": "nggeohh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 36.02,
+      "end": 36.98,
+      "confidence": 0,
+      "text": "friend",
+      "offset": 42,
+      "length": 6,
+      "key": "sjg2r7a"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 36.98,
+      "end": 37.13,
+      "confidence": 0,
+      "text": "and",
+      "offset": 49,
+      "length": 3,
+      "key": "8jc61ae"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 37.13,
+      "end": 37.19,
+      "confidence": 0,
+      "text": "I",
+      "offset": 53,
+      "length": 1,
+      "key": "k4ivyqp"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 37.19,
+      "end": 37.4,
+      "confidence": 0,
+      "text": "said",
+      "offset": 55,
+      "length": 4,
+      "key": "49ir384i"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 37.4,
+      "end": 37.56,
+      "confidence": 0,
+      "text": "to",
+      "offset": 60,
+      "length": 2,
+      "key": "4kuxfy"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 37.56,
+      "end": 37.81,
+      "confidence": 0,
+      "text": "hold",
+      "offset": 63,
+      "length": 4,
+      "key": "wxw0wp"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 37.81,
+      "end": 37.95,
+      "confidence": 0,
+      "text": "it,",
+      "offset": 68,
+      "length": 3,
+      "key": "iblnv1f"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 37.95,
+      "end": 38.2,
+      "confidence": 0,
+      "text": "but",
+      "offset": 72,
+      "length": 3,
+      "key": "wm9vtn"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 38.2,
+      "end": 38.46,
+      "confidence": 0,
+      "text": "he'll",
+      "offset": 76,
+      "length": 5,
+      "key": "bhzcsx4"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 38.46,
+      "end": 38.64,
+      "confidence": 0,
+      "text": "see",
+      "offset": 82,
+      "length": 3,
+      "key": "gcjza"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 38.64,
+      "end": 38.8,
+      "confidence": 0,
+      "text": "what",
+      "offset": 86,
+      "length": 4,
+      "key": "5h8b6jj"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 38.8,
+      "end": 42.2,
+      "confidence": 0,
+      "text": "debts.",
+      "offset": 91,
+      "length": 6,
+      "key": "ynl4ac"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 42.2,
+      "end": 42.34,
+      "confidence": 0,
+      "text": "We",
+      "offset": 0,
+      "length": 2,
+      "key": "te5sx5l"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 42.34,
+      "end": 42.49,
+      "confidence": 0,
+      "text": "were",
+      "offset": 3,
+      "length": 4,
+      "key": "7l66oh8"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 42.49,
+      "end": 42.91,
+      "confidence": 0,
+      "text": "watching",
+      "offset": 8,
+      "length": 8,
+      "key": "rl7rwa9"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 42.91,
+      "end": 42.99,
+      "confidence": 0,
+      "text": "the",
+      "offset": 17,
+      "length": 3,
+      "key": "rkh4r18"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 42.99,
+      "end": 43.9,
+      "confidence": 0,
+      "text": "theatrics",
+      "offset": 21,
+      "length": 9,
+      "key": "8seyzz"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 43.9,
+      "end": 43.99,
+      "confidence": 0,
+      "text": "of",
+      "offset": 31,
+      "length": 2,
+      "key": "pbsf1ja"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 43.99,
+      "end": 44.23,
+      "confidence": 0,
+      "text": "this",
+      "offset": 34,
+      "length": 4,
+      "key": "hay966a"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 44.23,
+      "end": 44.51,
+      "confidence": 0,
+      "text": "robe",
+      "offset": 39,
+      "length": 4,
+      "key": "lr0x4f"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 44.51,
+      "end": 45.86,
+      "confidence": 0,
+      "text": "that",
+      "offset": 44,
+      "length": 4,
+      "key": "3l1cao"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 45.86,
+      "end": 46.87,
+      "confidence": 0,
+      "text": "struggle",
+      "offset": 49,
+      "length": 8,
+      "key": "fmb7veaf"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 46.87,
+      "end": 47.06,
+      "confidence": 0,
+      "text": "and",
+      "offset": 58,
+      "length": 3,
+      "key": "44k5i5m"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 47.06,
+      "end": 47.69,
+      "confidence": 0,
+      "text": "cry",
+      "offset": 62,
+      "length": 3,
+      "key": "1osh2c"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 47.69,
+      "end": 48.84,
+      "confidence": 0,
+      "text": "out",
+      "offset": 66,
+      "length": 3,
+      "key": "haw4px8"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 48.84,
+      "end": 49.75,
+      "confidence": 0,
+      "text": "",
+      "offset": 70,
+      "length": 3,
+      "key": "9bo7ifo"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 49.75,
+      "end": 50.23,
+      "confidence": 0,
+      "text": "and",
+      "offset": 74,
+      "length": 3,
+      "key": "6wz0hxh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 50.23,
+      "end": 50.51,
+      "confidence": 0,
+      "text": "after",
+      "offset": 78,
+      "length": 5,
+      "key": "j3iqf4d"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 50.51,
+      "end": 50.55,
+      "confidence": 0,
+      "text": "a",
+      "offset": 84,
+      "length": 1,
+      "key": "z603uyk"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 50.55,
+      "end": 50.71,
+      "confidence": 0,
+      "text": "few",
+      "offset": 86,
+      "length": 3,
+      "key": "1yzjwnr"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 50.71,
+      "end": 51.71,
+      "confidence": 0,
+      "text": "seconds.",
+      "offset": 0,
+      "length": 8,
+      "key": "pi72u5p"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 51.71,
+      "end": 51.92,
+      "confidence": 0,
+      "text": "The",
+      "offset": 0,
+      "length": 3,
+      "key": "sawtpnp"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 51.92,
+      "end": 52.4,
+      "confidence": 0,
+      "text": "first.",
+      "offset": 4,
+      "length": 6,
+      "key": "96gprtk"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 52.4,
+      "end": 52.77,
+      "confidence": 0,
+      "text": "After",
+      "offset": 11,
+      "length": 5,
+      "key": "dr0q2lo"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 52.77,
+      "end": 52.99,
+      "confidence": 0,
+      "text": "my",
+      "offset": 17,
+      "length": 2,
+      "key": "u9gbiie"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 52.99,
+      "end": 54.64,
+      "confidence": 0,
+      "text": "little",
+      "offset": 20,
+      "length": 6,
+      "key": "9f00qjf"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 54.64,
+      "end": 54.85,
+      "confidence": 0,
+      "text": "and",
+      "offset": 27,
+      "length": 3,
+      "key": "wdtl5xl"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 54.85,
+      "end": 54.94,
+      "confidence": 0,
+      "text": "I",
+      "offset": 31,
+      "length": 1,
+      "key": "4hj7j3r"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 54.94,
+      "end": 55.2,
+      "confidence": 0,
+      "text": "said",
+      "offset": 33,
+      "length": 4,
+      "key": "2xpbzo"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 55.2,
+      "end": 56.97,
+      "confidence": 0,
+      "text": "o.k.",
+      "offset": 38,
+      "length": 4,
+      "key": "morbq8j"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 56.97,
+      "end": 57.2,
+      "confidence": 0,
+      "text": "That's",
+      "offset": 43,
+      "length": 6,
+      "key": "q9k8gv8"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 57.2,
+      "end": 57.56,
+      "confidence": 0,
+      "text": "enough.",
+      "offset": 50,
+      "length": 7,
+      "key": "g1egum"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 57.56,
+      "end": 58.79,
+      "confidence": 0,
+      "text": "Now,",
+      "offset": 58,
+      "length": 4,
+      "key": "ao8keh8"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 58.79,
+      "end": 59.1,
+      "confidence": 0,
+      "text": "let's",
+      "offset": 63,
+      "length": 5,
+      "key": "y048599"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 59.1,
+      "end": 59.23,
+      "confidence": 0,
+      "text": "put",
+      "offset": 69,
+      "length": 3,
+      "key": "v60map"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 59.23,
+      "end": 59.31,
+      "confidence": 0,
+      "text": "him",
+      "offset": 73,
+      "length": 3,
+      "key": "uqguyx2dc"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 59.31,
+      "end": 59.53,
+      "confidence": 0,
+      "text": "back",
+      "offset": 77,
+      "length": 4,
+      "key": "h716h3"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 59.53,
+      "end": 61.25,
+      "confidence": 0,
+      "text": "down",
+      "offset": 82,
+      "length": 4,
+      "key": "g1kfcma"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 61.25,
+      "end": 61.62,
+      "confidence": 0,
+      "text": "and",
+      "offset": 87,
+      "length": 3,
+      "key": "cul3ri5"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 61.62,
+      "end": 62.02,
+      "confidence": 0,
+      "text": "pepper,",
+      "offset": 91,
+      "length": 7,
+      "key": "i7b4vu5"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 62.02,
+      "end": 62.32,
+      "confidence": 0,
+      "text": "about",
+      "offset": 99,
+      "length": 5,
+      "key": "q4uujdg"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 62.32,
+      "end": 62.42,
+      "confidence": 0,
+      "text": "to",
+      "offset": 105,
+      "length": 2,
+      "key": "yz42up9"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 62.42,
+      "end": 62.55,
+      "confidence": 0,
+      "text": "make",
+      "offset": 108,
+      "length": 4,
+      "key": "gtuoc9g"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 62.55,
+      "end": 62.65,
+      "confidence": 0,
+      "text": "it.",
+      "offset": 113,
+      "length": 3,
+      "key": "sm735h"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 62.65,
+      "end": 62.9,
+      "confidence": 0,
+      "text": "Stop",
+      "offset": 117,
+      "length": 4,
+      "key": "racaufh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 62.9,
+      "end": 63.73,
+      "confidence": 0,
+      "text": "crying",
+      "offset": 122,
+      "length": 6,
+      "key": "q5luxc"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 63.73,
+      "end": 64.73,
+      "confidence": 0,
+      "text": "and",
+      "offset": 129,
+      "length": 3,
+      "key": "d7jca8"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 64.73,
+      "end": 66.08,
+      "confidence": 0,
+      "text": "I",
+      "offset": 133,
+      "length": 1,
+      "key": "139nnaf"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 66.08,
+      "end": 66.27,
+      "confidence": 0,
+      "text": "was",
+      "offset": 135,
+      "length": 3,
+      "key": "7qklgd"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 66.27,
+      "end": 66.42,
+      "confidence": 0,
+      "text": "kind",
+      "offset": 139,
+      "length": 4,
+      "key": "gydfy9"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 66.42,
+      "end": 66.49,
+      "confidence": 0,
+      "text": "of",
+      "offset": 144,
+      "length": 2,
+      "key": "ymuei8"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 66.49,
+      "end": 66.63,
+      "confidence": 0,
+      "text": "a",
+      "offset": 147,
+      "length": 1,
+      "key": "au19jfs"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 66.63,
+      "end": 66.91,
+      "confidence": 0,
+      "text": "weird",
+      "offset": 149,
+      "length": 5,
+      "key": "bsk13d"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 66.91,
+      "end": 67.63,
+      "confidence": 0,
+      "text": "experience",
+      "offset": 155,
+      "length": 10,
+      "key": "r5j9q9q"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 67.63,
+      "end": 67.76,
+      "confidence": 0,
+      "text": "for",
+      "offset": 166,
+      "length": 3,
+      "key": "etgagpb"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 67.76,
+      "end": 69.07,
+      "confidence": 0,
+      "text": "me",
+      "offset": 170,
+      "length": 2,
+      "key": "urwqhp"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 69.07,
+      "end": 69.33,
+      "confidence": 0,
+      "text": "one",
+      "offset": 173,
+      "length": 3,
+      "key": "g6zmrvf"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 69.33,
+      "end": 70,
+      "confidence": 0,
+      "text": "thing,",
+      "offset": 177,
+      "length": 6,
+      "key": "lagjbsc"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 70,
+      "end": 70.29,
+      "confidence": 0,
+      "text": "wasn't",
+      "offset": 184,
+      "length": 6,
+      "key": "tl2rpc"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 70.29,
+      "end": 70.36,
+      "confidence": 0,
+      "text": "the",
+      "offset": 191,
+      "length": 3,
+      "key": "nn63z6l"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 70.36,
+      "end": 70.76,
+      "confidence": 0,
+      "text": "most",
+      "offset": 195,
+      "length": 4,
+      "key": "9bq0i27"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 70.76,
+      "end": 71.37,
+      "confidence": 0,
+      "text": "maternal",
+      "offset": 200,
+      "length": 8,
+      "key": "qk2pxxl"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 71.37,
+      "end": 71.92,
+      "confidence": 0,
+      "text": "person",
+      "offset": 209,
+      "length": 6,
+      "key": "61m1g2"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 71.92,
+      "end": 72.06,
+      "confidence": 0,
+      "text": "at",
+      "offset": 216,
+      "length": 2,
+      "key": "7rgbqh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 72.06,
+      "end": 72.13,
+      "confidence": 0,
+      "text": "the",
+      "offset": 219,
+      "length": 3,
+      "key": "nunp7m"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 72.13,
+      "end": 73.64,
+      "confidence": 0,
+      "text": "time.",
+      "offset": 223,
+      "length": 5,
+      "key": "4rr2g2f"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 73.64,
+      "end": 73.92,
+      "confidence": 0,
+      "text": "Although,",
+      "offset": 229,
+      "length": 9,
+      "key": "x4bf3x"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 73.92,
+      "end": 74.14,
+      "confidence": 0,
+      "text": "since",
+      "offset": 239,
+      "length": 5,
+      "key": "y26ebkm"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 74.14,
+      "end": 74.25,
+      "confidence": 0,
+      "text": "then",
+      "offset": 245,
+      "length": 4,
+      "key": "u9593xb"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 74.25,
+      "end": 74.36,
+      "confidence": 0,
+      "text": "I've",
+      "offset": 250,
+      "length": 4,
+      "key": "qe0uked"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 74.36,
+      "end": 74.59,
+      "confidence": 0,
+      "text": "become",
+      "offset": 255,
+      "length": 6,
+      "key": "h7hksnd"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 74.59,
+      "end": 74.65,
+      "confidence": 0,
+      "text": "a",
+      "offset": 262,
+      "length": 1,
+      "key": "o2r7rx"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 74.65,
+      "end": 74.94,
+      "confidence": 0,
+      "text": "mother",
+      "offset": 264,
+      "length": 6,
+      "key": "ez40k4"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 74.94,
+      "end": 75.03,
+      "confidence": 0,
+      "text": "and",
+      "offset": 271,
+      "length": 3,
+      "key": "djqk0g9"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 75.03,
+      "end": 75.24,
+      "confidence": 0,
+      "text": "nine",
+      "offset": 275,
+      "length": 4,
+      "key": "zu5nar"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 75.24,
+      "end": 75.47,
+      "confidence": 0,
+      "text": "months",
+      "offset": 280,
+      "length": 6,
+      "key": "4wbedn"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 75.47,
+      "end": 76.44,
+      "confidence": 0,
+      "text": "ago.",
+      "offset": 287,
+      "length": 4,
+      "key": "n5akhmh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 76.44,
+      "end": 76.84,
+      "confidence": 0,
+      "text": "And",
+      "offset": 292,
+      "length": 3,
+      "key": "23v783e"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 76.84,
+      "end": 77.12,
+      "confidence": 0,
+      "text": "that",
+      "offset": 296,
+      "length": 4,
+      "key": "d3ky5c7"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 77.12,
+      "end": 77.47,
+      "confidence": 0,
+      "text": "is",
+      "offset": 301,
+      "length": 2,
+      "key": "zp9y7u"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 77.47,
+      "end": 77.69,
+      "confidence": 0,
+      "text": "a",
+      "offset": 304,
+      "length": 1,
+      "key": "siu7k88"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 77.69,
+      "end": 78.03,
+      "confidence": 0,
+      "text": "score",
+      "offset": 306,
+      "length": 5,
+      "key": "y2q5qw"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 78.03,
+      "end": 78.22,
+      "confidence": 0,
+      "text": "when",
+      "offset": 312,
+      "length": 4,
+      "key": "li5ft0l"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 78.22,
+      "end": 78.39,
+      "confidence": 0,
+      "text": "hold",
+      "offset": 317,
+      "length": 4,
+      "key": "q1srbhw"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 78.39,
+      "end": 78.51,
+      "confidence": 0,
+      "text": "them",
+      "offset": 322,
+      "length": 4,
+      "key": "00n51ie"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 78.51,
+      "end": 78.63,
+      "confidence": 0,
+      "text": "up",
+      "offset": 327,
+      "length": 2,
+      "key": "sos0vdq"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 78.63,
+      "end": 78.78,
+      "confidence": 0,
+      "text": "to",
+      "offset": 330,
+      "length": 2,
+      "key": "e68inpr"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 78.78,
+      "end": 82.01,
+      "confidence": 0,
+      "text": "now,",
+      "offset": 333,
+      "length": 4,
+      "key": "7yiyn9g"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 82.01,
+      "end": 82.25,
+      "confidence": 0,
+      "text": "but",
+      "offset": 338,
+      "length": 3,
+      "key": "kq306xh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 82.25,
+      "end": 82.47,
+      "confidence": 0,
+      "text": "my",
+      "offset": 342,
+      "length": 2,
+      "key": "pyo7nb"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 82.47,
+      "end": 82.86,
+      "confidence": 0,
+      "text": "response",
+      "offset": 345,
+      "length": 8,
+      "key": "xzp6nz"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 82.86,
+      "end": 82.9,
+      "confidence": 0,
+      "text": "to",
+      "offset": 354,
+      "length": 2,
+      "key": "5yo28a9"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 82.9,
+      "end": 83.1,
+      "confidence": 0,
+      "text": "this",
+      "offset": 357,
+      "length": 4,
+      "key": "kat0pq"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 83.1,
+      "end": 83.41,
+      "confidence": 0,
+      "text": "robot",
+      "offset": 362,
+      "length": 5,
+      "key": "1bn6qxi"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 83.41,
+      "end": 83.55,
+      "confidence": 0,
+      "text": "was",
+      "offset": 368,
+      "length": 3,
+      "key": "t9vaamg"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 83.55,
+      "end": 83.83,
+      "confidence": 0,
+      "text": "also",
+      "offset": 372,
+      "length": 4,
+      "key": "p3ljr3d"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 83.83,
+      "end": 84.24,
+      "confidence": 0,
+      "text": "interesting",
+      "offset": 377,
+      "length": 11,
+      "key": "afodkyb"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 84.24,
+      "end": 84.85,
+      "confidence": 0,
+      "text": "because",
+      "offset": 389,
+      "length": 7,
+      "key": "teqfrf3"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 84.85,
+      "end": 84.99,
+      "confidence": 0,
+      "text": "I",
+      "offset": 397,
+      "length": 1,
+      "key": "ow4jbk"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 84.99,
+      "end": 85.15,
+      "confidence": 0,
+      "text": "knew",
+      "offset": 399,
+      "length": 4,
+      "key": "6kgtaz"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 85.15,
+      "end": 85.89,
+      "confidence": 0,
+      "text": "exactly",
+      "offset": 404,
+      "length": 7,
+      "key": "uenke12"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 85.89,
+      "end": 86.16,
+      "confidence": 0,
+      "text": "how",
+      "offset": 412,
+      "length": 3,
+      "key": "ekoy4d"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 86.16,
+      "end": 86.38,
+      "confidence": 0,
+      "text": "this",
+      "offset": 416,
+      "length": 4,
+      "key": "133yenl"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 86.38,
+      "end": 87.05,
+      "confidence": 0,
+      "text": "machine",
+      "offset": 421,
+      "length": 7,
+      "key": "ta9nf2f"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 87.05,
+      "end": 87.55,
+      "confidence": 0,
+      "text": "work",
+      "offset": 429,
+      "length": 4,
+      "key": "f46jc6f"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 87.55,
+      "end": 88.47,
+      "confidence": 0,
+      "text": "it.",
+      "offset": 434,
+      "length": 3,
+      "key": "g91zhx"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 88.47,
+      "end": 88.65,
+      "confidence": 0,
+      "text": "And",
+      "offset": 438,
+      "length": 3,
+      "key": "zwrek9k"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 88.65,
+      "end": 88.85,
+      "confidence": 0,
+      "text": "yet.",
+      "offset": 442,
+      "length": 4,
+      "key": "mi3568l"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 88.85,
+      "end": 88.95,
+      "confidence": 0,
+      "text": "I",
+      "offset": 447,
+      "length": 1,
+      "key": "p30enka"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 88.95,
+      "end": 89.35,
+      "confidence": 0,
+      "text": "still",
+      "offset": 449,
+      "length": 5,
+      "key": "1rye21"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 89.35,
+      "end": 89.63,
+      "confidence": 0,
+      "text": "felt",
+      "offset": 455,
+      "length": 4,
+      "key": "wa2iefy"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 89.63,
+      "end": 90.37,
+      "confidence": 0,
+      "text": "compelled",
+      "offset": 460,
+      "length": 9,
+      "key": "z8i3nw"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 90.37,
+      "end": 90.49,
+      "confidence": 0,
+      "text": "to",
+      "offset": 470,
+      "length": 2,
+      "key": "sfkwg58"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 90.49,
+      "end": 90.65,
+      "confidence": 0,
+      "text": "be",
+      "offset": 473,
+      "length": 2,
+      "key": "o121ns"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 90.65,
+      "end": 91.39,
+      "confidence": 0,
+      "text": "kind",
+      "offset": 476,
+      "length": 4,
+      "key": "znp6iwj"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 91.39,
+      "end": 91.57,
+      "confidence": 0,
+      "text": "to",
+      "offset": 481,
+      "length": 2,
+      "key": "xr7h8x7"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 91.57,
+      "end": 93.39,
+      "confidence": 0,
+      "text": "it.",
+      "offset": 484,
+      "length": 3,
+      "key": "ej46ue"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 93.39,
+      "end": 93.6,
+      "confidence": 0,
+      "text": "And",
+      "offset": 488,
+      "length": 3,
+      "key": "q5075tr"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 93.6,
+      "end": 93.91,
+      "confidence": 0,
+      "text": "that",
+      "offset": 492,
+      "length": 4,
+      "key": "qg9ggcb"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 93.91,
+      "end": 94.69,
+      "confidence": 0,
+      "text": "observation",
+      "offset": 497,
+      "length": 11,
+      "key": "ynxi2a"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 94.69,
+      "end": 95.08,
+      "confidence": 0,
+      "text": "sparked",
+      "offset": 509,
+      "length": 7,
+      "key": "adrakm7"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 95.08,
+      "end": 95.16,
+      "confidence": 0,
+      "text": "that",
+      "offset": 517,
+      "length": 4,
+      "key": "kj7hq0a"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 95.16,
+      "end": 96.11,
+      "confidence": 0,
+      "text": "curiosity",
+      "offset": 522,
+      "length": 9,
+      "key": "mzkz5zt"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 96.11,
+      "end": 96.3,
+      "confidence": 0,
+      "text": "that",
+      "offset": 532,
+      "length": 4,
+      "key": "u5g5nxd"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 96.3,
+      "end": 96.39,
+      "confidence": 0,
+      "text": "I",
+      "offset": 537,
+      "length": 1,
+      "key": "8vmap15"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 96.39,
+      "end": 96.72,
+      "confidence": 0,
+      "text": "spent",
+      "offset": 539,
+      "length": 5,
+      "key": "dnh2le5"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 96.72,
+      "end": 96.79,
+      "confidence": 0,
+      "text": "the",
+      "offset": 545,
+      "length": 3,
+      "key": "t5jthnp"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 96.79,
+      "end": 97.25,
+      "confidence": 0,
+      "text": "fat,",
+      "offset": 0,
+      "length": 4,
+      "key": "bo88dk"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 97.25,
+      "end": 97.34,
+      "confidence": 0,
+      "text": "the",
+      "offset": 5,
+      "length": 3,
+      "key": "fxvhpth"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 97.34,
+      "end": 97.73,
+      "confidence": 0,
+      "text": "past",
+      "offset": 9,
+      "length": 4,
+      "key": "ddffu3g"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 97.73,
+      "end": 98.26,
+      "confidence": 0,
+      "text": "decade",
+      "offset": 0,
+      "length": 6,
+      "key": "wi73ls3"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 98.26,
+      "end": 99.46,
+      "confidence": 0,
+      "text": "pursuing",
+      "offset": 7,
+      "length": 8,
+      "key": "mcw2whe"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 99.46,
+      "end": 99.91,
+      "confidence": 0,
+      "text": "it.",
+      "offset": 16,
+      "length": 3,
+      "key": "4sys7d9"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 99.91,
+      "end": 100.16,
+      "confidence": 0,
+      "text": "Why",
+      "offset": 20,
+      "length": 3,
+      "key": "13yv6ia"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 100.16,
+      "end": 100.31,
+      "confidence": 0,
+      "text": "did",
+      "offset": 24,
+      "length": 3,
+      "key": "kcbcp2t"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 100.31,
+      "end": 100.43,
+      "confidence": 0,
+      "text": "they",
+      "offset": 28,
+      "length": 4,
+      "key": "iktgtt"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 100.43,
+      "end": 100.9,
+      "confidence": 0,
+      "text": "comfort",
+      "offset": 33,
+      "length": 7,
+      "key": "k6qyhu"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 100.9,
+      "end": 101.15,
+      "confidence": 0,
+      "text": "this",
+      "offset": 41,
+      "length": 4,
+      "key": "qrp8t99"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 101.15,
+      "end": 103.24,
+      "confidence": 0,
+      "text": "robe.",
+      "offset": 46,
+      "length": 5,
+      "key": "5dwukl"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 103.24,
+      "end": 103.46,
+      "confidence": 0,
+      "text": "One",
+      "offset": 52,
+      "length": 3,
+      "key": "9z0htak"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 103.46,
+      "end": 103.55,
+      "confidence": 0,
+      "text": "of",
+      "offset": 56,
+      "length": 2,
+      "key": "zdvnd6"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 103.55,
+      "end": 103.63,
+      "confidence": 0,
+      "text": "the",
+      "offset": 59,
+      "length": 3,
+      "key": "cawnnin"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 103.63,
+      "end": 103.85,
+      "confidence": 0,
+      "text": "things",
+      "offset": 63,
+      "length": 6,
+      "key": "bk5bz2g"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 103.85,
+      "end": 103.91,
+      "confidence": 0,
+      "text": "I",
+      "offset": 70,
+      "length": 1,
+      "key": "0o6yp7g"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 103.91,
+      "end": 104.55,
+      "confidence": 0,
+      "text": "discovered",
+      "offset": 72,
+      "length": 10,
+      "key": "tcofcd"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 104.55,
+      "end": 104.75,
+      "confidence": 0,
+      "text": "was",
+      "offset": 83,
+      "length": 3,
+      "key": "ie77dpf"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 104.75,
+      "end": 105.43,
+      "confidence": 0,
+      "text": "that",
+      "offset": 0,
+      "length": 4,
+      "key": "waz1p1c"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 105.43,
+      "end": 105.59,
+      "confidence": 0,
+      "text": "my",
+      "offset": 0,
+      "length": 2,
+      "key": "rhry2z"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 105.59,
+      "end": 106.18,
+      "confidence": 0,
+      "text": "treatment",
+      "offset": 3,
+      "length": 9,
+      "key": "8i91i9i"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 106.18,
+      "end": 106.24,
+      "confidence": 0,
+      "text": "of",
+      "offset": 13,
+      "length": 2,
+      "key": "pmjztgw"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 106.24,
+      "end": 106.43,
+      "confidence": 0,
+      "text": "this",
+      "offset": 16,
+      "length": 4,
+      "key": "b4gumvo"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 106.43,
+      "end": 106.78,
+      "confidence": 0,
+      "text": "machine",
+      "offset": 21,
+      "length": 7,
+      "key": "bhp6szs"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 106.78,
+      "end": 106.93,
+      "confidence": 0,
+      "text": "was",
+      "offset": 29,
+      "length": 3,
+      "key": "hm6h4x"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 106.93,
+      "end": 107.19,
+      "confidence": 0,
+      "text": "more",
+      "offset": 33,
+      "length": 4,
+      "key": "2bihib"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 107.19,
+      "end": 107.34,
+      "confidence": 0,
+      "text": "than",
+      "offset": 38,
+      "length": 4,
+      "key": "zj2xr9o"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 107.34,
+      "end": 107.96,
+      "confidence": 0,
+      "text": "just",
+      "offset": 43,
+      "length": 4,
+      "key": "jcq6s4e"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 107.96,
+      "end": 108.17,
+      "confidence": 0,
+      "text": "an",
+      "offset": 48,
+      "length": 2,
+      "key": "m9hug78"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 108.17,
+      "end": 108.58,
+      "confidence": 0,
+      "text": "awkward",
+      "offset": 51,
+      "length": 7,
+      "key": "w08qz5r"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 108.58,
+      "end": 109.06,
+      "confidence": 0,
+      "text": "moment",
+      "offset": 59,
+      "length": 6,
+      "key": "snf026"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 109.06,
+      "end": 109.14,
+      "confidence": 0,
+      "text": "in",
+      "offset": 66,
+      "length": 2,
+      "key": "p57mlk"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 109.14,
+      "end": 109.28,
+      "confidence": 0,
+      "text": "my",
+      "offset": 69,
+      "length": 2,
+      "key": "rncqil"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 109.28,
+      "end": 109.6,
+      "confidence": 0,
+      "text": "living",
+      "offset": 72,
+      "length": 6,
+      "key": "c9myzkd"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 109.6,
+      "end": 110.43,
+      "confidence": 0,
+      "text": "room",
+      "offset": 79,
+      "length": 4,
+      "key": "blstty"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 110.43,
+      "end": 110.72,
+      "confidence": 0,
+      "text": "that",
+      "offset": 84,
+      "length": 4,
+      "key": "dgqqjpv"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 110.72,
+      "end": 110.79,
+      "confidence": 0,
+      "text": "in",
+      "offset": 89,
+      "length": 2,
+      "key": "bny93hre"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 110.79,
+      "end": 110.93,
+      "confidence": 0,
+      "text": "a",
+      "offset": 92,
+      "length": 1,
+      "key": "68yrprh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 110.93,
+      "end": 111.43,
+      "confidence": 0,
+      "text": "world",
+      "offset": 94,
+      "length": 5,
+      "key": "1rzjsq"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 111.43,
+      "end": 111.62,
+      "confidence": 0,
+      "text": "were",
+      "offset": 100,
+      "length": 4,
+      "key": "fgpjbw8"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 111.62,
+      "end": 112.44,
+      "confidence": 0,
+      "text": "increasingly",
+      "offset": 105,
+      "length": 12,
+      "key": "j2yyxtf"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 112.44,
+      "end": 113.19,
+      "confidence": 0,
+      "text": "integrating",
+      "offset": 118,
+      "length": 11,
+      "key": "8m9jkh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 113.19,
+      "end": 114.2,
+      "confidence": 0,
+      "text": "robots",
+      "offset": 130,
+      "length": 6,
+      "key": "1locafo"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 114.2,
+      "end": 114.55,
+      "confidence": 0,
+      "text": "into",
+      "offset": 137,
+      "length": 4,
+      "key": "6ch745n"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 114.55,
+      "end": 114.64,
+      "confidence": 0,
+      "text": "our",
+      "offset": 142,
+      "length": 3,
+      "key": "7zcfwh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 114.64,
+      "end": 115.83,
+      "confidence": 0,
+      "text": "lives",
+      "offset": 146,
+      "length": 5,
+      "key": "teuqwd9"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 115.83,
+      "end": 116.08,
+      "confidence": 0,
+      "text": "and",
+      "offset": 152,
+      "length": 3,
+      "key": "bycm7v0s6"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 116.08,
+      "end": 116.37,
+      "confidence": 0,
+      "text": "things",
+      "offset": 156,
+      "length": 6,
+      "key": "05o4fd1"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 116.37,
+      "end": 116.73,
+      "confidence": 0,
+      "text": "like",
+      "offset": 163,
+      "length": 4,
+      "key": "gwdcvsc"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 116.73,
+      "end": 117.02,
+      "confidence": 0,
+      "text": "that",
+      "offset": 168,
+      "length": 4,
+      "key": "bzo3tvr"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 117.02,
+      "end": 117.37,
+      "confidence": 0,
+      "text": "might",
+      "offset": 173,
+      "length": 5,
+      "key": "fps1mcw"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 117.37,
+      "end": 117.73,
+      "confidence": 0,
+      "text": "actually",
+      "offset": 179,
+      "length": 8,
+      "key": "f4u4ax"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 117.73,
+      "end": 117.87,
+      "confidence": 0,
+      "text": "have",
+      "offset": 188,
+      "length": 4,
+      "key": "ykit57"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 117.87,
+      "end": 120.42,
+      "confidence": 0,
+      "text": "consequences",
+      "offset": 193,
+      "length": 12,
+      "key": "v1vopr8"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 120.42,
+      "end": 120.66,
+      "confidence": 0,
+      "text": "because",
+      "offset": 206,
+      "length": 7,
+      "key": "3wgnlop"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 120.66,
+      "end": 120.74,
+      "confidence": 0,
+      "text": "the",
+      "offset": 214,
+      "length": 3,
+      "key": "qoa6am"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 120.74,
+      "end": 121,
+      "confidence": 0,
+      "text": "first",
+      "offset": 218,
+      "length": 5,
+      "key": "5zxf78m"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 121,
+      "end": 121.15,
+      "confidence": 0,
+      "text": "thing",
+      "offset": 224,
+      "length": 5,
+      "key": "8v00wkb"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 121.15,
+      "end": 121.21,
+      "confidence": 0,
+      "text": "that",
+      "offset": 230,
+      "length": 4,
+      "key": "uio7kv"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 121.21,
+      "end": 121.31,
+      "confidence": 0,
+      "text": "I",
+      "offset": 235,
+      "length": 1,
+      "key": "bl6nvgo"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 121.31,
+      "end": 122.14,
+      "confidence": 0,
+      "text": "discovered",
+      "offset": 237,
+      "length": 10,
+      "key": "swqzh5k"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 122.14,
+      "end": 122.33,
+      "confidence": 0,
+      "text": "is",
+      "offset": 248,
+      "length": 2,
+      "key": "1vxeghp"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 122.33,
+      "end": 122.54,
+      "confidence": 0,
+      "text": "that.",
+      "offset": 251,
+      "length": 5,
+      "key": "zfc38h"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 122.54,
+      "end": 122.78,
+      "confidence": 0,
+      "text": "It's",
+      "offset": 257,
+      "length": 4,
+      "key": "wubxpta"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 122.78,
+      "end": 123.03,
+      "confidence": 0,
+      "text": "not",
+      "offset": 262,
+      "length": 3,
+      "key": "2tqxue"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 123.03,
+      "end": 123.37,
+      "confidence": 0,
+      "text": "just",
+      "offset": 266,
+      "length": 4,
+      "key": "aqqsfi"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 123.37,
+      "end": 126.23,
+      "confidence": 0,
+      "text": "me",
+      "offset": 271,
+      "length": 2,
+      "key": "htdnde"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 126.23,
+      "end": 126.4,
+      "confidence": 0,
+      "text": "in",
+      "offset": 0,
+      "length": 2,
+      "key": "8smlttw"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 126.4,
+      "end": 126.56,
+      "confidence": 0,
+      "text": "two",
+      "offset": 3,
+      "length": 3,
+      "key": "0jwbh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 126.56,
+      "end": 127.06,
+      "confidence": 0,
+      "text": "thousand",
+      "offset": 7,
+      "length": 8,
+      "key": "11wszd"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 127.06,
+      "end": 127.73,
+      "confidence": 0,
+      "text": "seven.",
+      "offset": 16,
+      "length": 6,
+      "key": "gwtd4z5"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 127.73,
+      "end": 127.86,
+      "confidence": 0,
+      "text": "The",
+      "offset": 23,
+      "length": 3,
+      "key": "3o2kjx"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 127.86,
+      "end": 128.38,
+      "confidence": 0,
+      "text": "Washington",
+      "offset": 27,
+      "length": 10,
+      "key": "dodfbkd"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 128.38,
+      "end": 128.72,
+      "confidence": 0,
+      "text": "Post",
+      "offset": 38,
+      "length": 4,
+      "key": "pnscatn"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 128.72,
+      "end": 129.25,
+      "confidence": 0,
+      "text": "reported",
+      "offset": 43,
+      "length": 8,
+      "key": "annqjkc"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 129.25,
+      "end": 129.4,
+      "confidence": 0,
+      "text": "that",
+      "offset": 52,
+      "length": 4,
+      "key": "l3b85pg"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 129.4,
+      "end": 129.49,
+      "confidence": 0,
+      "text": "the",
+      "offset": 57,
+      "length": 3,
+      "key": "bq0xtoc"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 129.49,
+      "end": 129.92,
+      "confidence": 0,
+      "text": "United",
+      "offset": 61,
+      "length": 6,
+      "key": "dab64nm"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 129.92,
+      "end": 130.19,
+      "confidence": 0,
+      "text": "States",
+      "offset": 68,
+      "length": 6,
+      "key": "9wzl3ul"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 130.19,
+      "end": 131.06,
+      "confidence": 0,
+      "text": "military",
+      "offset": 75,
+      "length": 8,
+      "key": "bh0852j"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 131.06,
+      "end": 131.26,
+      "confidence": 0,
+      "text": "was",
+      "offset": 84,
+      "length": 3,
+      "key": "9l8sboh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 131.26,
+      "end": 131.8,
+      "confidence": 0,
+      "text": "testing",
+      "offset": 88,
+      "length": 7,
+      "key": "gc678gm"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 131.8,
+      "end": 132.31,
+      "confidence": 0,
+      "text": "this",
+      "offset": 96,
+      "length": 4,
+      "key": "9c2eucg"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 132.31,
+      "end": 132.89,
+      "confidence": 0,
+      "text": "robot",
+      "offset": 101,
+      "length": 5,
+      "key": "qspn3h"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 132.89,
+      "end": 133.58,
+      "confidence": 0,
+      "text": "diffused",
+      "offset": 107,
+      "length": 8,
+      "key": "9miqla9"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 133.58,
+      "end": 134.4,
+      "confidence": 0,
+      "text": "landmines.",
+      "offset": 116,
+      "length": 10,
+      "key": "geamckl"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 134.4,
+      "end": 134.72,
+      "confidence": 0,
+      "text": "We",
+      "offset": 127,
+      "length": 2,
+      "key": "2odd4d"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 134.72,
+      "end": 135.33,
+      "confidence": 0,
+      "text": "workers",
+      "offset": 130,
+      "length": 7,
+      "key": "0cmwdac"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 135.33,
+      "end": 135.55,
+      "confidence": 0,
+      "text": "were",
+      "offset": 138,
+      "length": 4,
+      "key": "q2macjr"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 135.55,
+      "end": 135.93,
+      "confidence": 0,
+      "text": "shaped",
+      "offset": 143,
+      "length": 6,
+      "key": "j0cvl9h"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 135.93,
+      "end": 136.07,
+      "confidence": 0,
+      "text": "like",
+      "offset": 150,
+      "length": 4,
+      "key": "cpiufw"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 136.07,
+      "end": 136.14,
+      "confidence": 0,
+      "text": "a",
+      "offset": 155,
+      "length": 1,
+      "key": "c23f3duj"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 136.14,
+      "end": 136.54,
+      "confidence": 0,
+      "text": "stick",
+      "offset": 157,
+      "length": 5,
+      "key": "woehoq"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 136.54,
+      "end": 137.14,
+      "confidence": 0,
+      "text": "insect",
+      "offset": 163,
+      "length": 6,
+      "key": "dzsguh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 137.14,
+      "end": 137.68,
+      "confidence": 0,
+      "text": "would",
+      "offset": 170,
+      "length": 5,
+      "key": "mcbz0v"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 137.68,
+      "end": 137.92,
+      "confidence": 0,
+      "text": "walk",
+      "offset": 176,
+      "length": 4,
+      "key": "dta85i"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 137.92,
+      "end": 138.14,
+      "confidence": 0,
+      "text": "around",
+      "offset": 181,
+      "length": 6,
+      "key": "zebg1v4"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 138.14,
+      "end": 138.18,
+      "confidence": 0,
+      "text": "a",
+      "offset": 188,
+      "length": 1,
+      "key": "0a888im"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 138.18,
+      "end": 138.78,
+      "confidence": 0,
+      "text": "minefield",
+      "offset": 190,
+      "length": 9,
+      "key": "z3pevtn"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 138.78,
+      "end": 138.88,
+      "confidence": 0,
+      "text": "on",
+      "offset": 200,
+      "length": 2,
+      "key": "ri41yck"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 138.88,
+      "end": 139.04,
+      "confidence": 0,
+      "text": "its",
+      "offset": 203,
+      "length": 3,
+      "key": "k83vglh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 139.04,
+      "end": 139.8,
+      "confidence": 0,
+      "text": "legs",
+      "offset": 207,
+      "length": 4,
+      "key": "r0ezk2"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 139.8,
+      "end": 140.05,
+      "confidence": 0,
+      "text": "and",
+      "offset": 212,
+      "length": 3,
+      "key": "ciesril"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 140.05,
+      "end": 140.27,
+      "confidence": 0,
+      "text": "every",
+      "offset": 216,
+      "length": 5,
+      "key": "2dghbs3"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 140.27,
+      "end": 140.45,
+      "confidence": 0,
+      "text": "time",
+      "offset": 222,
+      "length": 4,
+      "key": "9coqcvr"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 140.45,
+      "end": 140.53,
+      "confidence": 0,
+      "text": "he",
+      "offset": 227,
+      "length": 2,
+      "key": "y6cv1v7"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 140.53,
+      "end": 140.88,
+      "confidence": 0,
+      "text": "stepped",
+      "offset": 230,
+      "length": 7,
+      "key": "qswzia"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 140.88,
+      "end": 140.96,
+      "confidence": 0,
+      "text": "on",
+      "offset": 238,
+      "length": 2,
+      "key": "euf7gg"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 140.96,
+      "end": 141.02,
+      "confidence": 0,
+      "text": "a",
+      "offset": 241,
+      "length": 1,
+      "key": "xfpv6le"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 141.02,
+      "end": 141.46,
+      "confidence": 0,
+      "text": "mine.",
+      "offset": 243,
+      "length": 5,
+      "key": "ougm8j"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 141.46,
+      "end": 141.62,
+      "confidence": 0,
+      "text": "One",
+      "offset": 249,
+      "length": 3,
+      "key": "ragql29"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 141.62,
+      "end": 141.71,
+      "confidence": 0,
+      "text": "of",
+      "offset": 253,
+      "length": 2,
+      "key": "0irrd4q"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 141.71,
+      "end": 141.81,
+      "confidence": 0,
+      "text": "the",
+      "offset": 256,
+      "length": 3,
+      "key": "n4mbkb8"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 141.81,
+      "end": 142.07,
+      "confidence": 0,
+      "text": "legs",
+      "offset": 260,
+      "length": 4,
+      "key": "t44ne9b"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 142.07,
+      "end": 142.19,
+      "confidence": 0,
+      "text": "would",
+      "offset": 265,
+      "length": 5,
+      "key": "9j6n11"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 142.19,
+      "end": 142.45,
+      "confidence": 0,
+      "text": "blow",
+      "offset": 271,
+      "length": 4,
+      "key": "b19n12y"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 142.45,
+      "end": 142.8,
+      "confidence": 0,
+      "text": "up",
+      "offset": 276,
+      "length": 2,
+      "key": "p5z3ehc"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 142.8,
+      "end": 142.99,
+      "confidence": 0,
+      "text": "would",
+      "offset": 279,
+      "length": 5,
+      "key": "imecu6"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 142.99,
+      "end": 143.51,
+      "confidence": 0,
+      "text": "continue",
+      "offset": 285,
+      "length": 8,
+      "key": "ht5mok"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 143.51,
+      "end": 143.61,
+      "confidence": 0,
+      "text": "on",
+      "offset": 294,
+      "length": 2,
+      "key": "w6u367i"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 143.61,
+      "end": 143.7,
+      "confidence": 0,
+      "text": "the",
+      "offset": 297,
+      "length": 3,
+      "key": "ssgxgto"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 143.7,
+      "end": 143.91,
+      "confidence": 0,
+      "text": "other",
+      "offset": 301,
+      "length": 5,
+      "key": "k9q45p4"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 143.91,
+      "end": 144.26,
+      "confidence": 0,
+      "text": "legs",
+      "offset": 307,
+      "length": 4,
+      "key": "atr0ik"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 144.26,
+      "end": 144.37,
+      "confidence": 0,
+      "text": "to",
+      "offset": 312,
+      "length": 2,
+      "key": "brap71"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 144.37,
+      "end": 144.69,
+      "confidence": 0,
+      "text": "block",
+      "offset": 315,
+      "length": 5,
+      "key": "cyg4pt8"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 144.69,
+      "end": 144.88,
+      "confidence": 0,
+      "text": "your",
+      "offset": 321,
+      "length": 4,
+      "key": "eg9a3cn"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 144.88,
+      "end": 146.21,
+      "confidence": 0,
+      "text": "minds",
+      "offset": 326,
+      "length": 5,
+      "key": "9loxfqe"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 146.21,
+      "end": 146.51,
+      "confidence": 0,
+      "text": "in",
+      "offset": 332,
+      "length": 2,
+      "key": "zk9imdl"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 146.51,
+      "end": 146.66,
+      "confidence": 0,
+      "text": "the",
+      "offset": 335,
+      "length": 3,
+      "key": "jq3or7"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 146.66,
+      "end": 147.14,
+      "confidence": 0,
+      "text": "colonel",
+      "offset": 339,
+      "length": 7,
+      "key": "lwvvclk"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 147.14,
+      "end": 147.34,
+      "confidence": 0,
+      "text": "was",
+      "offset": 347,
+      "length": 3,
+      "key": "rqcpp2k"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 147.34,
+      "end": 147.43,
+      "confidence": 0,
+      "text": "in",
+      "offset": 351,
+      "length": 2,
+      "key": "r35merf"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 147.43,
+      "end": 147.92,
+      "confidence": 0,
+      "text": "charge",
+      "offset": 354,
+      "length": 6,
+      "key": "rovonmk"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 147.92,
+      "end": 148.01,
+      "confidence": 0,
+      "text": "of",
+      "offset": 361,
+      "length": 2,
+      "key": "aoiu8gha"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 148.01,
+      "end": 148.18,
+      "confidence": 0,
+      "text": "this",
+      "offset": 364,
+      "length": 4,
+      "key": "16rt8vr"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 148.18,
+      "end": 148.7,
+      "confidence": 0,
+      "text": "testing",
+      "offset": 369,
+      "length": 7,
+      "key": "bgg4x6k"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 148.7,
+      "end": 150.07,
+      "confidence": 0,
+      "text": "exercise",
+      "offset": 377,
+      "length": 8,
+      "key": "weacsep"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 150.07,
+      "end": 150.3,
+      "confidence": 0,
+      "text": "for",
+      "offset": 386,
+      "length": 3,
+      "key": "b3igugh"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 150.3,
+      "end": 150.78,
+      "confidence": 0,
+      "text": "calling",
+      "offset": 390,
+      "length": 7,
+      "key": "aooo6ul"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 150.78,
+      "end": 150.88,
+      "confidence": 0,
+      "text": "it",
+      "offset": 398,
+      "length": 2,
+      "key": "g3flbfsw"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 150.88,
+      "end": 152.17,
+      "confidence": 0,
+      "text": "off",
+      "offset": 401,
+      "length": 3,
+      "key": "7cksg3u"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 152.17,
+      "end": 152.59,
+      "confidence": 0,
+      "text": "because",
+      "offset": 405,
+      "length": 7,
+      "key": "uhkefhf"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 152.59,
+      "end": 152.72,
+      "confidence": 0,
+      "text": "he",
+      "offset": 413,
+      "length": 2,
+      "key": "2quesj"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 152.72,
+      "end": 153.17,
+      "confidence": 0,
+      "text": "says",
+      "offset": 416,
+      "length": 4,
+      "key": "8ws20d"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 153.17,
+      "end": 153.47,
+      "confidence": 0,
+      "text": "it's",
+      "offset": 421,
+      "length": 4,
+      "key": "ftr4ddf"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 153.47,
+      "end": 153.76,
+      "confidence": 0,
+      "text": "too",
+      "offset": 426,
+      "length": 3,
+      "key": "i2p4xiv"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 153.76,
+      "end": 154.61,
+      "confidence": 0,
+      "text": "inhumane",
+      "offset": 430,
+      "length": 8,
+      "key": "dllmvl"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 154.61,
+      "end": 154.8,
+      "confidence": 0,
+      "text": "to",
+      "offset": 439,
+      "length": 2,
+      "key": "ys2f8o"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 154.8,
+      "end": 155.35,
+      "confidence": 0,
+      "text": "watch",
+      "offset": 442,
+      "length": 5,
+      "key": "j4k9zl7"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 155.35,
+      "end": 155.58,
+      "confidence": 0,
+      "text": "this",
+      "offset": 448,
+      "length": 4,
+      "key": "atbhayy"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 155.58,
+      "end": 156.12,
+      "confidence": 0,
+      "text": "damage",
+      "offset": 453,
+      "length": 6,
+      "key": "7x3mzhb"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 156.12,
+      "end": 156.58,
+      "confidence": 0,
+      "text": "robot",
+      "offset": 460,
+      "length": 5,
+      "key": "ge066u"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 156.58,
+      "end": 157.07,
+      "confidence": 0,
+      "text": "drag",
+      "offset": 466,
+      "length": 4,
+      "key": "tk9imt"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 157.07,
+      "end": 157.44,
+      "confidence": 0,
+      "text": "itself",
+      "offset": 471,
+      "length": 6,
+      "key": "uxmmyvd"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 157.44,
+      "end": 158.32,
+      "confidence": 0,
+      "text": "along",
+      "offset": 478,
+      "length": 5,
+      "key": "fx85lft"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 158.32,
+      "end": 158.42,
+      "confidence": 0,
+      "text": "the",
+      "offset": 0,
+      "length": 3,
+      "key": "zlx3n7u"
+    }
+  },
+  {
+    "type": "WORD",
+    "mutability": "MUTABLE",
+    "data": {
+      "start": 158.42,
+      "end": 162.08,
+      "confidence": 0,
+      "text": "minefield.",
+      "offset": 4,
+      "length": 10,
+      "key": "4iychvi"
+    }
+  }
+]
