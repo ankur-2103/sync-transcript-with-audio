@@ -24,7 +24,9 @@ const Transcript = () => {
             });
 
             //Get the reference of current word
-            const wordElement = wordsRef.current.childNodes[activeWordIndex-1];
+            const wordElement = wordsRef.current.childNodes[activeWordIndex - 1];
+            
+            //Get the reference for previous word
             const wordElement2 = wordsRef.current.childNodes[a - 1];
 
             //update the classname for current word
