@@ -1163,7 +1163,7 @@
       "start": 30.03,
       "end": 33.51,
       "confidence": 0,
-      "text": "down.",
+      "text": "down it start to cry.",
       "offset": 314,
       "length": 5,
       "key": "ceif4og"
@@ -5125,10 +5125,10 @@
     "type": "WORD",
     "mutability": "MUTABLE",
     "data": {
-      "start": 158.32,
+      "start": 158.99,
       "end": 158.42,
       "confidence": 0,
-      "text": "the",
+      "text": "the minefield.",
       "offset": 0,
       "length": 3,
       "key": "zlx3n7u"
@@ -5138,10 +5138,10 @@
     "type": "WORD",
     "mutability": "MUTABLE",
     "data": {
-      "start": 158.42,
+      "start": 160.20,
       "end": 162.08,
       "confidence": 0,
-      "text": "minefield.",
+       "text": "",
       "offset": 4,
       "length": 10,
       "key": "4iychvi"

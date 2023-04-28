@@ -1,7 +1,5 @@
 .active-word{
     background-color: blueviolet;
-}
-
-.deactive{
-    background-color: white;
+    color: white;
+    border-radius: 5px;
 }
